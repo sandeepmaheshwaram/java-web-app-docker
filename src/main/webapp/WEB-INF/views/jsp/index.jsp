@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To MAHESHWARAM SANDEEP</h2>
+			<h2>Welcome To maheshwaram sandeep</h2>
 			<h3>Contact @ +91-9676861287</h3>
 		</div>	
 	</div>
