@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To maheshwaram sandeep</h2>
+			<h2>Welcome To Maheshwaram Sandeep</h2>
 			<h3>Contact @ +91-9676861287</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; sandeep Technologies 2019</p>
+		<p>&copy; Sandeep Technologies 2019</p>
 	</footer>
 </div>
 
