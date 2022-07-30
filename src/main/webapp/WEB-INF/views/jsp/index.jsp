@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Sandeep Technologies 2019</p>
+		<p>&copy; Sandeep Technologies 2022</p>
 	</footer>
 </div>
 
